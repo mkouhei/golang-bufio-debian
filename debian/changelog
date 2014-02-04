@@ -1,5 +1,5 @@
-golang-bufio (0.0~git20140127+9bd8506-1) unstable; urgency=low
+golang-bufio (0.0~git20140203+44bfd37-1) unstable; urgency=low
 
   * Initial release (Closes: #nnnn)
 
- -- Kouhei Maeda <mkouhei@palmtb.net>  Thu, 30 Jan 2014 17:42:06 +0900
+ -- Kouhei Maeda <mkouhei@palmtb.net>  Tue, 04 Feb 2014 22:37:43 +0900
