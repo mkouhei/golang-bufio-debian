@@ -1,4 +1,4 @@
-Source: golang-bufio
+Source: golang-vmihailenco-bufio
 Priority: extra
 Maintainer: Kouhei Maeda <mkouhei@palmtb.net>
 Build-Depends: debhelper (>= 9.0.0), dh-golang, golang-go
@@ -6,7 +6,7 @@ Standards-Version: 3.9.5
 Section: devel
 Homepage: https://github.com/vmihailenco/bufio
 
-Package: golang-bufio-dev
+Package: golang-vmihailenco-bufio-dev
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}, golang-go
 Description: Fork of Golang's bufio package
